@@ -1,0 +1,5 @@
+# Your code here
+def take(arr,pos=1)
+    return [] if pos >= arr.length
+    return arr[(pos)..(arr.length)]
+end
