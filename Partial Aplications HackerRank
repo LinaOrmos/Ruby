@@ -1,4 +1,3 @@
- #!/usr/bin/ruby
 combination = lambda{|n| 
          lambda{|r| 
                  k=1 
